@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PopupWindow</string>
+    <string name="text_center_popupwindow">Center PopupWindow</string>
+    <string name="text_bottom_popupwindow">Bottom PopupWindow</string>
+    <string name="text_position_popupwindow">Position PopupWindow</string>
+    <string name="text_open">Open</string>
+    <string name="text_save_as">Save as</string>
+    <string name="text_close">Close</string>
+    <string name="text_eidt">Eidt</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_share">Share</string>
+    <string name="text_collect">Collect</string>
+    <string name="text_exit">Exit</string>
+</resources>

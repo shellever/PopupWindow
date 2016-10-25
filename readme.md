@@ -1,9 +1,11 @@
 ## PopupWindow
 
 ### 中央位置的PopupWindow
+
 将自定义PopupWindow布局显示在Activity中央位置，并且屏蔽PopupWindow之外的其他区域。
 
 **xml布局**
+
 布局中额外加上LinearLayout，主要是因为PopupWindow会将最外层的Layout失效，会影响到中央位置的设置
 
 ```xml
@@ -53,6 +55,7 @@
 ```
 
 **自定义动画样式**
+
 创建动画资源目录res/anim，并在此目录创建两个资源文件：context_menu_enter.xml / context_menu_exit.xml
 然后依据此两个动画创建一个动画样式contextMenuAnim，用于PopupWindow
 
